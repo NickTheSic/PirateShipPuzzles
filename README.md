@@ -3,3 +3,6 @@ This was a game jam game made for Weekly Game Jam 143 and the first project I to
 
 
 Play the game over on itch.io: https://nickthesic.itch.io/pirate-ship-puzzles
+
+
+Learn more here: https://www.nicklemmon.cyou/code/pirate-ship-puzzles
